@@ -1,0 +1,2 @@
+javassist=com.paddi.core.proxy.javassist.JavassistProxyFactory
+jdk=com.paddi.core.proxy.jdk.JDKProxyFactory

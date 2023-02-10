@@ -1,0 +1,4 @@
+kryo=com.paddi.core.serialize.kryo.KryoSerializeFactory
+hessian2=com.paddi.core.serialize.kryo.KryoSerializeFactory
+fastjson=com.paddi.core.serialize.fastjson.FastJsonSerializeFactory
+jdk=com.paddi.core.serialize.jdk.JdkSerializeFactory

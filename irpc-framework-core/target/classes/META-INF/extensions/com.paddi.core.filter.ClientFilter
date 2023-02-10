@@ -1,0 +1,3 @@
+log=com.paddi.core.filter.client.ClientLogFilter
+directInvoke=com.paddi.core.filter.client.DirectInvokeFilter
+group=com.paddi.core.filter.client.GroupClientFilter

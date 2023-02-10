@@ -1,0 +1,2 @@
+rotate=com.paddi.core.router.RotateRouter
+random=com.paddi.core.router.RandomRouter

@@ -1,0 +1,4 @@
+log=com.paddi.core.filter.server.ServerLogFilter
+token=com.paddi.core.filter.server.ServerTokenFilter
+limitBefore=com.paddi.core.filter.server.SemaphoreBeforeLimitFilter
+limitAfter=com.paddi.core.filter.server.SemaphoreAfterLimitFilter
